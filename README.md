@@ -31,6 +31,6 @@ Install them with `pip install -r requirements.txt` (a requirements file is prov
 ## Usage
 
 1. Place the raw TESS-W CSV file (`tess_data.csv`) and the F10.7 flux table (`F107_fluxtable.txt`) in the repository root.
-2. Open `tess_pipeline.ipynb` in Jupyter Lab or Google Colab.
+2. Open `Evolution_NSB.ipynb` in Jupyter Lab or Google Colab.
 3. Adjust the parameters in the first code cell (timezone, paths, thresholds) if necessary.
 4. Run all cells. The notebook will produce all figures and export the aggregated data.
